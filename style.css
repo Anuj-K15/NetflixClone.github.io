@@ -383,18 +383,21 @@ section.first.fourth > div {
 }
 .accordion
 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     margin: 60px auto;
     width: 100%;
     max-width: 750px;
 }
 .accordion li
 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     list-style: none;
     width: 100%;
     padding: 5px;
 }
 .accordion li label
 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     display: flex;
     align-items: center;
     padding: 20px;
